@@ -1,2 +1,2 @@
 # SlideRun
-A runner game using Unity Fundamentals
+Learning Unity 3D fundamentals
